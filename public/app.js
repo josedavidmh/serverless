@@ -1,14 +1,7 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-app.js";
 
-const firebaseConfig = {
-    apiKey: "AIzaSyA-ecBHtWxZCibVMSgq5sMgmZD7mqpP21g",
-    authDomain: "serverless-1f963.firebaseapp.com",
-    projectId: "serverless-1f963",
-    storageBucket: "serverless-1f963.firebasestorage.app",
-    messagingSenderId: "839234889175",
-    appId: "1:839234889175:web:9ea979489db6f34b9e9792",
-    measurementId: "G-1ZE8XQPW73"
-};
+//En este bloque va firebase config que no se carga a github por seguridad.
+//const firebaseconfig ...
 
 // Inicializar Firebase
 const app = initializeApp(firebaseConfig);
@@ -23,7 +16,7 @@ async function cargarDatos() {
         const response = await fetch('https://getdatos-6ytmihoema-uc.a.run.app');
         if (!response.ok) throw new Error("Error en la respuesta de la red");
         
-        const datos = await response.json();
+        const datos = await response.json()
         dibujarTabla(datos);
     } catch (error) {
         console.error("Error al obtener datos:", error);
