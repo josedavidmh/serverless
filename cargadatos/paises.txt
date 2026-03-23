@@ -1,0 +1,173 @@
+pais,capital,moneda,poblacion,area_km2
+Afganistán,Kabul,Afgani,38928346,652230
+Albania,Tirana,Lek,2877797,28748
+Alemania,Berlín,Euro,83783945,357022
+Andorra,Andorra la Vella,Euro,77265,468
+Angola,Luanda,Kwanza,32866268,1246700
+Arabia Saudita,Riad,Riyal saudí,34813867,2149690
+Argelia,Argel,Dinar argelino,43851044,2381741
+Argentina,Buenos Aires,Peso argentino,45195774,2780400
+Armenia,Ereván,Dram armenio,2963234,29743
+Australia,Camberra,Dólar australiano,25687041,7692024
+Austria,Viena,Euro,9006398,83871
+Azerbaiyán,Bakú,Manat azerí,10139175,86600
+Bahamas,Nasáu,Dólar bahameño,393244,13943
+Bangladés,Daca,Taka,164689383,147570
+Barbados,Bridgetown,Dólar de Barbados,287025,430
+Bélgica,Bruselas,Euro,11589623,30528
+Benín,Porto Novo,Franco CFA,12123200,112622
+Bielorrusia,Minsk,Rublo bielorruso,9449323,207600
+Bolivia,Sucre,Boliviano,11673029,1098581
+Bosnia y Herzegovina,Sarajevo,Marco convertible,3280819,51197
+Botsuana,Gaborone,Pula,2351627,581730
+Brasil,Brasilia,Real,212559409,8515767
+Brunéi,Bandar Seri Begawan,Dólar de Brunéi,437483,5765
+Bulgaria,Sofía,Lev,6948445,110879
+Burkina Faso,Uagadugú,Franco CFA,21510181,272967
+Burundi,Gitega,Franco burundés,11890784,27834
+Bután,Timbu,Gultrum,771612,38394
+Cabo Verde,Praia,Escudo caboverdiano,555988,4033
+Camboya,Phnom Penh,Riel,16718971,181035
+Camerún,Yaundé,Franco CFA,26545864,475442
+Canadá,Ottawa,Dólar canadiense,38005238,9984670
+Catar,Doha,Riyal qatarí,2881060,11586
+Chad,Yamena,Franco CFA,16425864,1284000
+Chile,Santiago,Peso chileno,19116209,756102
+China,Pekín,Yuan,1402112000,9596961
+Chipre,Nicosia,Euro,1207359,9251
+Colombia,Bogotá,Peso colombiano,50882891,1141748
+Comoras,Moroni,Franco comorense,869595,2235
+Coreia del Norte,Pionyang,Won norcoreano,25778816,120540
+Coreia del Sur,Seúl,Won surcoreano,51269183,100210
+Costa de Marfil,Yamusukro,Franco CFA,26378274,322463
+Costa Rica,San José,Colón costarricense,5094114,51100
+Croacia,Zagreb,Euro,4067500,56594
+Cuba,La Habana,Peso cubano,11326616,109884
+Dinamarca,Copenhague,Corona danesa,5831404,43094
+Dominica,Roseau,Dólar del Caribe Oriental,71991,751
+Ecuador,Quito,Dólar estadounidense,17643054,276841
+Egipto,El Cairo,Libra egipcia,102334403,1002450
+El Salvador,San Salvador,Dólar estadounidense,6486205,21041
+Emiratos Árabes Unidos,Abu Dabi,Dirham,9890402,83600
+España,Madrid,Euro,46754783,505992
+Estado de Palestina,Jerusalén Este,Shekel israelí,5101416,6020
+Estados Unidos,Washington D.C.,Dólar estadounidense,331893745,9833517
+Etiopía,Adís Abeba,Birr etíope,114963583,1104300
+Filipinas,Manila,Peso filipino,109581085,300000
+Finlandia,Helsinki,Euro,5542517,338424
+Francia,París,Euro,65273512,551695
+Gabón,Libreville,Franco CFA,2225734,267668
+Gambia,Banjul,Dalasi,2416668,11295
+Ghana,Acra,Cedi,31072940,238533
+Georgia,Tiflis,Lari,4008399,69700
+Granada,Saint George,Dólar del Caribe Oriental,112519,344
+Grecia,Atenas,Euro,10423054,131957
+Guatemala,Ciudad de Guatemala,Quetzal,17915567,108889
+Guinea,Conakri,Franco guineano,13132795,245857
+Guinea-Bissau,Bissau,Peso de Guinea-Bissau,1967998,36125
+Haití,Puerto Príncipe,Gourde,11402533,27750
+Honduras,Tegucigalpa,Lempira,9904608,112492
+Hong Kong,Hong Kong,Dólar de Hong Kong,7496981,1104
+Hungría,Budapest,Forinto,9660351,93028
+India,Nueva Delhi,Rupia india,1380004385,3287263
+Indonesia,Yakarta,Rupia indonesia,273523621,1904569
+Irak,Bagdad,Dinar iraquí,40222493,438317
+Irán,Teherán,Rial iraní,83992953,1648195
+Irlanda,Dublín,Euro,4934040,70273
+Islandia,Reikiavik,Corona islandesa,343599,103000
+Islas Marshall,Majuro,Dólar estadounidense,59194,181
+Islas Salomón,Honiara,Dólar de las Islas Salomón,686878,28896
+Israel,Jerusalén,Nuevo séquel,8655541,22072
+Italia,Roma,Euro,60359546,301340
+Jamaica,Kingston,Dólar jamaicano,2961161,10991
+Japón,Tokio,Yen,126476458,377975
+Jordania,Amán,Dinar jordano,10203134,89342
+Kazajistán,Astaná,Tenge,18776707,2724900
+Kenia,Nairobi,Chelín keniano,53771296,580367
+Kirguistán,Biskek,Som,6524195,199951
+Kiribati,Tarawa,Dólar australiano,119449,811
+Kuwait,Ciudad de Kuwait,Dinar kuwaití,4270563,17818
+Laos,Vientián,Kip,7275560,236800
+Lesoto,Maseru,Loti,2142249,30355
+Letonia,Riga,Euro,1886198,64559
+Líbano,Beirut,Libra libanesa,6825442,10452
+Liberia,Monrovia,Dólar liberiano,4937374,111369
+Libia,Trípoli,Dinar libio,6871292,1759540
+Liechtenstein,Vaduz,Franco suizo,39266,160
+Lituania,Vilna,Euro,2793471,65300
+Macedonia del Norte,Skopie,Denar,2083459,25713
+Madagascar,Antananarivo,Ariary,27691018,587041
+Malasia,Kuala Lumpur,Ringgit,32365998,330803
+Malawi,Lilongüe,Kwacha malauí,19129955,118484
+pais,capital,moneda,poblacion,area_km2
+Maldivas,Malé,Rupia de Maldivas,540542,298
+Malí,Bamako,Franco CFA,20250833,1240192
+Malta,La Valeta,Euro,514564,316
+Marruecos,Rabat,Dirham marroquí,36910560,446550
+Mauritania,Nuakchot,Ouguiya,4649658,1030700
+México,Ciudad de México,Peso mexicano,128932753,1964375
+Micronesia,Palikir,Dólar estadounidense,115021,702
+Moldavia,Chisinau,Leu moldavo,4043263,33846
+Mónaco,Mónaco,Euro,39244,2
+Mongolia,Ulán Bator,Tugrik,3278290,1564110
+Montenegro,Podgorica,Euro,622359,13812
+Mozambique,Maputo,Metical mozambiqueño,31255435,801590
+Myanmar,Naipyidó,Kyat,54409794,676578
+Namibia,Windhoek,Dólar namibio,2540905,825615
+Nauru,Yaren,Dólar australiano,10834,21
+Nepal,Katmandú,Rupia nepalí,29136808,147181
+Nicaragua,Managua,Córdoba,6624554,130373
+Níger,Niamey,Franco CFA,24206644,1267000
+Nigeria,Abuya,Naira,206139587,923769
+Noruega,Oslo,Corona noruega,5421242,323802
+Nueva Zelanda,Wellington,Dólar neozelandés,4822233,268838
+Omán,Mascate,Rial omaní,5106626,309500
+Países Bajos,Ámsterdam,Euro,17134872,41543
+Pakistán,Islamabad,Rupia pakistaní,220892331,881912
+Palaos,Ngerulmud,Dólar estadounidense,18008,459
+Panamá,Ciudad de Panamá,Balboa,4314768,75417
+Papúa Nueva Guinea,Puerto Moresby,Kina,8947027,462840
+Paraguay,Asunción,Guaraní,7132538,406752
+Perú,Lima,Sol,32971846,1285216
+Polonia,Varsovia,Zloty,38386000,312696
+Portugal,Lisboa,Euro,10196707,92212
+Qatar,Doha,Riyal qatarí,2881060,11586
+Reino Unido,Londres,Libra esterlina,68207114,243610
+República Centroafricana,Bangui,Franco CFA,4829764,622984
+República del Congo,Brazzaville,Franco CFA,5518092,342000
+República Democrática del Congo,Kinsasa,Franco congoleño,89561403,2344858
+República Dominicana,Santo Domingo,Peso dominicano,10847904,48671
+Ruanda,Kigali,Franco ruandés,12952218,26338
+Rumania,Bucarest,Leu rumano,19237691,238397
+Rusia,Moscú,Rublo ruso,145912025,17098246
+Samoa,Apia,Tala,198410,2831
+San Marino,San Marino,Euro,33931,61
+Santa Lucía,Castries,Dólar del Caribe Oriental,183627,617
+Santo Tomé y Príncipe,Santo Tomé,Dobra,219159,964
+Senegal,Dakar,Franco CFA,16743927,196722
+Serbia,Belgrado,Dinar serbio,8737371,88361
+Sierra Leona,Freetown,Leone,7976983,71740
+Singapur,Singapur,Dólar de Singapur,5868104,719
+Siria,Damasco,Libra siria,17500658,185180
+Somalia,Mogadiscio,Chelín somalí,15893219,637657
+pais,capital,moneda,poblacion,area_km2
+Sri Lanka,Colombo,Rupia de Sri Lanka,21803000,65610
+Sudán,Jartum,Libra sudanesa,43849269,1861484
+Sudán del Sur,Yuba,Libra sursudanesa,11193725,619745
+Suecia,Estocolmo,Corona sueca,10099265,450295
+Suiza,Berna,Franco suizo,8654622,41285
+Tailandia,Bangkok,Baht tailandés,69799978,513120
+Taiwán,Taipéi,Nuevo dólar de Taiwán,23816775,36197
+Tanzania,Dodoma,Chelín tanzano,59734218,945087
+Tayikistán,Dusambé,Somoni,9537642,143100
+Togo,Lomé,Franco CFA,8278724,56785
+Tonga,Nukuʻalofa,Paʻanga,105697,747
+Túnez,Túnez,Dinar tunecino,11818619,163610
+Turkmenistán,Asjabad,Manat turcomano,6031187,488100
+Turquía,Ankara,Lira turca,84339067,783562
+Tuvalu,Funafuti,Dólar tuvaluano,11792,26
+Ucrania,Kiev,Grivna,41723998,603500
+Uganda,Kampala,Chelín ugandés,45741000,241038
+Uruguay,Montevideo,Peso uruguayo,3473727,181034
+Uzbekistán,Taskent,Som uzbeko,34232050,447400
+Vanuatu,Port Vila,Vatu,307150,12189

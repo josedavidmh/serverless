@@ -1,0 +1,12 @@
+{
+  "functions": { "source": "functions" },
+  "hosting": {
+    "public": "public",
+    "rewrites": [
+      {
+        "source": "/api/datos",
+        "function": "getDatos"
+      }
+    ]
+  }
+}

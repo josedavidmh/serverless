@@ -1,0 +1,1206 @@
+[
+ {
+   "pais": "Afganistán",
+   "capital": "Kabul",
+   "moneda": "Afgani",
+   "poblacion": "38928346",
+   "area_km2": "652230"
+ },
+ {
+   "pais": "Albania",
+   "capital": "Tirana",
+   "moneda": "Lek",
+   "poblacion": "2877797",
+   "area_km2": "28748"
+ },
+ {
+   "pais": "Alemania",
+   "capital": "Berlín",
+   "moneda": "Euro",
+   "poblacion": "83783945",
+   "area_km2": "357022"
+ },
+ {
+   "pais": "Andorra",
+   "capital": "Andorra la Vella",
+   "moneda": "Euro",
+   "poblacion": "77265",
+   "area_km2": "468"
+ },
+ {
+   "pais": "Angola",
+   "capital": "Luanda",
+   "moneda": "Kwanza",
+   "poblacion": "32866268",
+   "area_km2": "1246700"
+ },
+ {
+   "pais": "Arabia Saudita",
+   "capital": "Riad",
+   "moneda": "Riyal saudí",
+   "poblacion": "34813867",
+   "area_km2": "2149690"
+ },
+ {
+   "pais": "Argelia",
+   "capital": "Argel",
+   "moneda": "Dinar argelino",
+   "poblacion": "43851044",
+   "area_km2": "2381741"
+ },
+ {
+   "pais": "Argentina",
+   "capital": "Buenos Aires",
+   "moneda": "Peso argentino",
+   "poblacion": "45195774",
+   "area_km2": "2780400"
+ },
+ {
+   "pais": "Armenia",
+   "capital": "Ereván",
+   "moneda": "Dram armenio",
+   "poblacion": "2963234",
+   "area_km2": "29743"
+ },
+ {
+   "pais": "Australia",
+   "capital": "Camberra",
+   "moneda": "Dólar australiano",
+   "poblacion": "25687041",
+   "area_km2": "7692024"
+ },
+ {
+   "pais": "Austria",
+   "capital": "Viena",
+   "moneda": "Euro",
+   "poblacion": "9006398",
+   "area_km2": "83871"
+ },
+ {
+   "pais": "Azerbaiyán",
+   "capital": "Bakú",
+   "moneda": "Manat azerí",
+   "poblacion": "10139175",
+   "area_km2": "86600"
+ },
+ {
+   "pais": "Bahamas",
+   "capital": "Nasáu",
+   "moneda": "Dólar bahameño",
+   "poblacion": "393244",
+   "area_km2": "13943"
+ },
+ {
+   "pais": "Bangladés",
+   "capital": "Daca",
+   "moneda": "Taka",
+   "poblacion": "164689383",
+   "area_km2": "147570"
+ },
+ {
+   "pais": "Barbados",
+   "capital": "Bridgetown",
+   "moneda": "Dólar de Barbados",
+   "poblacion": "287025",
+   "area_km2": "430"
+ },
+ {
+   "pais": "Bélgica",
+   "capital": "Bruselas",
+   "moneda": "Euro",
+   "poblacion": "11589623",
+   "area_km2": "30528"
+ },
+ {
+   "pais": "Benín",
+   "capital": "Porto Novo",
+   "moneda": "Franco CFA",
+   "poblacion": "12123200",
+   "area_km2": "112622"
+ },
+ {
+   "pais": "Bielorrusia",
+   "capital": "Minsk",
+   "moneda": "Rublo bielorruso",
+   "poblacion": "9449323",
+   "area_km2": "207600"
+ },
+ {
+   "pais": "Bolivia",
+   "capital": "Sucre",
+   "moneda": "Boliviano",
+   "poblacion": "11673029",
+   "area_km2": "1098581"
+ },
+ {
+   "pais": "Bosnia y Herzegovina",
+   "capital": "Sarajevo",
+   "moneda": "Marco convertible",
+   "poblacion": "3280819",
+   "area_km2": "51197"
+ },
+ {
+   "pais": "Botsuana",
+   "capital": "Gaborone",
+   "moneda": "Pula",
+   "poblacion": "2351627",
+   "area_km2": "581730"
+ },
+ {
+   "pais": "Brasil",
+   "capital": "Brasilia",
+   "moneda": "Real",
+   "poblacion": "212559409",
+   "area_km2": "8515767"
+ },
+ {
+   "pais": "Brunéi",
+   "capital": "Bandar Seri Begawan",
+   "moneda": "Dólar de Brunéi",
+   "poblacion": "437483",
+   "area_km2": "5765"
+ },
+ {
+   "pais": "Bulgaria",
+   "capital": "Sofía",
+   "moneda": "Lev",
+   "poblacion": "6948445",
+   "area_km2": "110879"
+ },
+ {
+   "pais": "Burkina Faso",
+   "capital": "Uagadugú",
+   "moneda": "Franco CFA",
+   "poblacion": "21510181",
+   "area_km2": "272967"
+ },
+ {
+   "pais": "Burundi",
+   "capital": "Gitega",
+   "moneda": "Franco burundés",
+   "poblacion": "11890784",
+   "area_km2": "27834"
+ },
+ {
+   "pais": "Bután",
+   "capital": "Timbu",
+   "moneda": "Gultrum",
+   "poblacion": "771612",
+   "area_km2": "38394"
+ },
+ {
+   "pais": "Cabo Verde",
+   "capital": "Praia",
+   "moneda": "Escudo caboverdiano",
+   "poblacion": "555988",
+   "area_km2": "4033"
+ },
+ {
+   "pais": "Camboya",
+   "capital": "Phnom Penh",
+   "moneda": "Riel",
+   "poblacion": "16718971",
+   "area_km2": "181035"
+ },
+ {
+   "pais": "Camerún",
+   "capital": "Yaundé",
+   "moneda": "Franco CFA",
+   "poblacion": "26545864",
+   "area_km2": "475442"
+ },
+ {
+   "pais": "Canadá",
+   "capital": "Ottawa",
+   "moneda": "Dólar canadiense",
+   "poblacion": "38005238",
+   "area_km2": "9984670"
+ },
+ {
+   "pais": "Catar",
+   "capital": "Doha",
+   "moneda": "Riyal qatarí",
+   "poblacion": "2881060",
+   "area_km2": "11586"
+ },
+ {
+   "pais": "Chad",
+   "capital": "Yamena",
+   "moneda": "Franco CFA",
+   "poblacion": "16425864",
+   "area_km2": "1284000"
+ },
+ {
+   "pais": "Chile",
+   "capital": "Santiago",
+   "moneda": "Peso chileno",
+   "poblacion": "19116209",
+   "area_km2": "756102"
+ },
+ {
+   "pais": "China",
+   "capital": "Pekín",
+   "moneda": "Yuan",
+   "poblacion": "1402112000",
+   "area_km2": "9596961"
+ },
+ {
+   "pais": "Chipre",
+   "capital": "Nicosia",
+   "moneda": "Euro",
+   "poblacion": "1207359",
+   "area_km2": "9251"
+ },
+ {
+   "pais": "Colombia",
+   "capital": "Bogotá",
+   "moneda": "Peso colombiano",
+   "poblacion": "50882891",
+   "area_km2": "1141748"
+ },
+ {
+   "pais": "Comoras",
+   "capital": "Moroni",
+   "moneda": "Franco comorense",
+   "poblacion": "869595",
+   "area_km2": "2235"
+ },
+ {
+   "pais": "Coreia del Norte",
+   "capital": "Pionyang",
+   "moneda": "Won norcoreano",
+   "poblacion": "25778816",
+   "area_km2": "120540"
+ },
+ {
+   "pais": "Coreia del Sur",
+   "capital": "Seúl",
+   "moneda": "Won surcoreano",
+   "poblacion": "51269183",
+   "area_km2": "100210"
+ },
+ {
+   "pais": "Costa de Marfil",
+   "capital": "Yamusukro",
+   "moneda": "Franco CFA",
+   "poblacion": "26378274",
+   "area_km2": "322463"
+ },
+ {
+   "pais": "Costa Rica",
+   "capital": "San José",
+   "moneda": "Colón costarricense",
+   "poblacion": "5094114",
+   "area_km2": "51100"
+ },
+ {
+   "pais": "Croacia",
+   "capital": "Zagreb",
+   "moneda": "Euro",
+   "poblacion": "4067500",
+   "area_km2": "56594"
+ },
+ {
+   "pais": "Cuba",
+   "capital": "La Habana",
+   "moneda": "Peso cubano",
+   "poblacion": "11326616",
+   "area_km2": "109884"
+ },
+ {
+   "pais": "Dinamarca",
+   "capital": "Copenhague",
+   "moneda": "Corona danesa",
+   "poblacion": "5831404",
+   "area_km2": "43094"
+ },
+ {
+   "pais": "Dominica",
+   "capital": "Roseau",
+   "moneda": "Dólar del Caribe Oriental",
+   "poblacion": "71991",
+   "area_km2": "751"
+ },
+ {
+   "pais": "Ecuador",
+   "capital": "Quito",
+   "moneda": "Dólar estadounidense",
+   "poblacion": "17643054",
+   "area_km2": "276841"
+ },
+ {
+   "pais": "Egipto",
+   "capital": "El Cairo",
+   "moneda": "Libra egipcia",
+   "poblacion": "102334403",
+   "area_km2": "1002450"
+ },
+ {
+   "pais": "El Salvador",
+   "capital": "San Salvador",
+   "moneda": "Dólar estadounidense",
+   "poblacion": "6486205",
+   "area_km2": "21041"
+ },
+ {
+   "pais": "Emiratos Árabes Unidos",
+   "capital": "Abu Dabi",
+   "moneda": "Dirham",
+   "poblacion": "9890402",
+   "area_km2": "83600"
+ },
+ {
+   "pais": "España",
+   "capital": "Madrid",
+   "moneda": "Euro",
+   "poblacion": "46754783",
+   "area_km2": "505992"
+ },
+ {
+   "pais": "Estado de Palestina",
+   "capital": "Jerusalén Este",
+   "moneda": "Shekel israelí",
+   "poblacion": "5101416",
+   "area_km2": "6020"
+ },
+ {
+   "pais": "Estados Unidos",
+   "capital": "Washington D.C.",
+   "moneda": "Dólar estadounidense",
+   "poblacion": "331893745",
+   "area_km2": "9833517"
+ },
+ {
+   "pais": "Etiopía",
+   "capital": "Adís Abeba",
+   "moneda": "Birr etíope",
+   "poblacion": "114963583",
+   "area_km2": "1104300"
+ },
+ {
+   "pais": "Filipinas",
+   "capital": "Manila",
+   "moneda": "Peso filipino",
+   "poblacion": "109581085",
+   "area_km2": "300000"
+ },
+ {
+   "pais": "Finlandia",
+   "capital": "Helsinki",
+   "moneda": "Euro",
+   "poblacion": "5542517",
+   "area_km2": "338424"
+ },
+ {
+   "pais": "Francia",
+   "capital": "París",
+   "moneda": "Euro",
+   "poblacion": "65273512",
+   "area_km2": "551695"
+ },
+ {
+   "pais": "Gabón",
+   "capital": "Libreville",
+   "moneda": "Franco CFA",
+   "poblacion": "2225734",
+   "area_km2": "267668"
+ },
+ {
+   "pais": "Gambia",
+   "capital": "Banjul",
+   "moneda": "Dalasi",
+   "poblacion": "2416668",
+   "area_km2": "11295"
+ },
+ {
+   "pais": "Ghana",
+   "capital": "Acra",
+   "moneda": "Cedi",
+   "poblacion": "31072940",
+   "area_km2": "238533"
+ },
+ {
+   "pais": "Georgia",
+   "capital": "Tiflis",
+   "moneda": "Lari",
+   "poblacion": "4008399",
+   "area_km2": "69700"
+ },
+ {
+   "pais": "Granada",
+   "capital": "Saint George",
+   "moneda": "Dólar del Caribe Oriental",
+   "poblacion": "112519",
+   "area_km2": "344"
+ },
+ {
+   "pais": "Grecia",
+   "capital": "Atenas",
+   "moneda": "Euro",
+   "poblacion": "10423054",
+   "area_km2": "131957"
+ },
+ {
+   "pais": "Guatemala",
+   "capital": "Ciudad de Guatemala",
+   "moneda": "Quetzal",
+   "poblacion": "17915567",
+   "area_km2": "108889"
+ },
+ {
+   "pais": "Guinea",
+   "capital": "Conakri",
+   "moneda": "Franco guineano",
+   "poblacion": "13132795",
+   "area_km2": "245857"
+ },
+ {
+   "pais": "Guinea-Bissau",
+   "capital": "Bissau",
+   "moneda": "Peso de Guinea-Bissau",
+   "poblacion": "1967998",
+   "area_km2": "36125"
+ },
+ {
+   "pais": "Haití",
+   "capital": "Puerto Príncipe",
+   "moneda": "Gourde",
+   "poblacion": "11402533",
+   "area_km2": "27750"
+ },
+ {
+   "pais": "Honduras",
+   "capital": "Tegucigalpa",
+   "moneda": "Lempira",
+   "poblacion": "9904608",
+   "area_km2": "112492"
+ },
+ {
+   "pais": "Hong Kong",
+   "capital": "Hong Kong",
+   "moneda": "Dólar de Hong Kong",
+   "poblacion": "7496981",
+   "area_km2": "1104"
+ },
+ {
+   "pais": "Hungría",
+   "capital": "Budapest",
+   "moneda": "Forinto",
+   "poblacion": "9660351",
+   "area_km2": "93028"
+ },
+ {
+   "pais": "India",
+   "capital": "Nueva Delhi",
+   "moneda": "Rupia india",
+   "poblacion": "1380004385",
+   "area_km2": "3287263"
+ },
+ {
+   "pais": "Indonesia",
+   "capital": "Yakarta",
+   "moneda": "Rupia indonesia",
+   "poblacion": "273523621",
+   "area_km2": "1904569"
+ },
+ {
+   "pais": "Irak",
+   "capital": "Bagdad",
+   "moneda": "Dinar iraquí",
+   "poblacion": "40222493",
+   "area_km2": "438317"
+ },
+ {
+   "pais": "Irán",
+   "capital": "Teherán",
+   "moneda": "Rial iraní",
+   "poblacion": "83992953",
+   "area_km2": "1648195"
+ },
+ {
+   "pais": "Irlanda",
+   "capital": "Dublín",
+   "moneda": "Euro",
+   "poblacion": "4934040",
+   "area_km2": "70273"
+ },
+ {
+   "pais": "Islandia",
+   "capital": "Reikiavik",
+   "moneda": "Corona islandesa",
+   "poblacion": "343599",
+   "area_km2": "103000"
+ },
+ {
+   "pais": "Islas Marshall",
+   "capital": "Majuro",
+   "moneda": "Dólar estadounidense",
+   "poblacion": "59194",
+   "area_km2": "181"
+ },
+ {
+   "pais": "Islas Salomón",
+   "capital": "Honiara",
+   "moneda": "Dólar de las Islas Salomón",
+   "poblacion": "686878",
+   "area_km2": "28896"
+ },
+ {
+   "pais": "Israel",
+   "capital": "Jerusalén",
+   "moneda": "Nuevo séquel",
+   "poblacion": "8655541",
+   "area_km2": "22072"
+ },
+ {
+   "pais": "Italia",
+   "capital": "Roma",
+   "moneda": "Euro",
+   "poblacion": "60359546",
+   "area_km2": "301340"
+ },
+ {
+   "pais": "Jamaica",
+   "capital": "Kingston",
+   "moneda": "Dólar jamaicano",
+   "poblacion": "2961161",
+   "area_km2": "10991"
+ },
+ {
+   "pais": "Japón",
+   "capital": "Tokio",
+   "moneda": "Yen",
+   "poblacion": "126476458",
+   "area_km2": "377975"
+ },
+ {
+   "pais": "Jordania",
+   "capital": "Amán",
+   "moneda": "Dinar jordano",
+   "poblacion": "10203134",
+   "area_km2": "89342"
+ },
+ {
+   "pais": "Kazajistán",
+   "capital": "Astaná",
+   "moneda": "Tenge",
+   "poblacion": "18776707",
+   "area_km2": "2724900"
+ },
+ {
+   "pais": "Kenia",
+   "capital": "Nairobi",
+   "moneda": "Chelín keniano",
+   "poblacion": "53771296",
+   "area_km2": "580367"
+ },
+ {
+   "pais": "Kirguistán",
+   "capital": "Biskek",
+   "moneda": "Som",
+   "poblacion": "6524195",
+   "area_km2": "199951"
+ },
+ {
+   "pais": "Kiribati",
+   "capital": "Tarawa",
+   "moneda": "Dólar australiano",
+   "poblacion": "119449",
+   "area_km2": "811"
+ },
+ {
+   "pais": "Kuwait",
+   "capital": "Ciudad de Kuwait",
+   "moneda": "Dinar kuwaití",
+   "poblacion": "4270563",
+   "area_km2": "17818"
+ },
+ {
+   "pais": "Laos",
+   "capital": "Vientián",
+   "moneda": "Kip",
+   "poblacion": "7275560",
+   "area_km2": "236800"
+ },
+ {
+   "pais": "Lesoto",
+   "capital": "Maseru",
+   "moneda": "Loti",
+   "poblacion": "2142249",
+   "area_km2": "30355"
+ },
+ {
+   "pais": "Letonia",
+   "capital": "Riga",
+   "moneda": "Euro",
+   "poblacion": "1886198",
+   "area_km2": "64559"
+ },
+ {
+   "pais": "Líbano",
+   "capital": "Beirut",
+   "moneda": "Libra libanesa",
+   "poblacion": "6825442",
+   "area_km2": "10452"
+ },
+ {
+   "pais": "Liberia",
+   "capital": "Monrovia",
+   "moneda": "Dólar liberiano",
+   "poblacion": "4937374",
+   "area_km2": "111369"
+ },
+ {
+   "pais": "Libia",
+   "capital": "Trípoli",
+   "moneda": "Dinar libio",
+   "poblacion": "6871292",
+   "area_km2": "1759540"
+ },
+ {
+   "pais": "Liechtenstein",
+   "capital": "Vaduz",
+   "moneda": "Franco suizo",
+   "poblacion": "39266",
+   "area_km2": "160"
+ },
+ {
+   "pais": "Lituania",
+   "capital": "Vilna",
+   "moneda": "Euro",
+   "poblacion": "2793471",
+   "area_km2": "65300"
+ },
+ {
+   "pais": "Macedonia del Norte",
+   "capital": "Skopie",
+   "moneda": "Denar",
+   "poblacion": "2083459",
+   "area_km2": "25713"
+ },
+ {
+   "pais": "Madagascar",
+   "capital": "Antananarivo",
+   "moneda": "Ariary",
+   "poblacion": "27691018",
+   "area_km2": "587041"
+ },
+ {
+   "pais": "Malasia",
+   "capital": "Kuala Lumpur",
+   "moneda": "Ringgit",
+   "poblacion": "32365998",
+   "area_km2": "330803"
+ },
+ {
+   "pais": "Malawi",
+   "capital": "Lilongüe",
+   "moneda": "Kwacha malauí",
+   "poblacion": "19129955",
+   "area_km2": "118484"
+ },
+ {
+   "pais": "pais",
+   "capital": "capital",
+   "moneda": "moneda",
+   "poblacion": "poblacion",
+   "area_km2": "area_km2"
+ },
+ {
+   "pais": "Maldivas",
+   "capital": "Malé",
+   "moneda": "Rupia de Maldivas",
+   "poblacion": "540542",
+   "area_km2": "298"
+ },
+ {
+   "pais": "Malí",
+   "capital": "Bamako",
+   "moneda": "Franco CFA",
+   "poblacion": "20250833",
+   "area_km2": "1240192"
+ },
+ {
+   "pais": "Malta",
+   "capital": "La Valeta",
+   "moneda": "Euro",
+   "poblacion": "514564",
+   "area_km2": "316"
+ },
+ {
+   "pais": "Marruecos",
+   "capital": "Rabat",
+   "moneda": "Dirham marroquí",
+   "poblacion": "36910560",
+   "area_km2": "446550"
+ },
+ {
+   "pais": "Mauritania",
+   "capital": "Nuakchot",
+   "moneda": "Ouguiya",
+   "poblacion": "4649658",
+   "area_km2": "1030700"
+ },
+ {
+   "pais": "México",
+   "capital": "Ciudad de México",
+   "moneda": "Peso mexicano",
+   "poblacion": "128932753",
+   "area_km2": "1964375"
+ },
+ {
+   "pais": "Micronesia",
+   "capital": "Palikir",
+   "moneda": "Dólar estadounidense",
+   "poblacion": "115021",
+   "area_km2": "702"
+ },
+ {
+   "pais": "Moldavia",
+   "capital": "Chisinau",
+   "moneda": "Leu moldavo",
+   "poblacion": "4043263",
+   "area_km2": "33846"
+ },
+ {
+   "pais": "Mónaco",
+   "capital": "Mónaco",
+   "moneda": "Euro",
+   "poblacion": "39244",
+   "area_km2": "2"
+ },
+ {
+   "pais": "Mongolia",
+   "capital": "Ulán Bator",
+   "moneda": "Tugrik",
+   "poblacion": "3278290",
+   "area_km2": "1564110"
+ },
+ {
+   "pais": "Montenegro",
+   "capital": "Podgorica",
+   "moneda": "Euro",
+   "poblacion": "622359",
+   "area_km2": "13812"
+ },
+ {
+   "pais": "Mozambique",
+   "capital": "Maputo",
+   "moneda": "Metical mozambiqueño",
+   "poblacion": "31255435",
+   "area_km2": "801590"
+ },
+ {
+   "pais": "Myanmar",
+   "capital": "Naipyidó",
+   "moneda": "Kyat",
+   "poblacion": "54409794",
+   "area_km2": "676578"
+ },
+ {
+   "pais": "Namibia",
+   "capital": "Windhoek",
+   "moneda": "Dólar namibio",
+   "poblacion": "2540905",
+   "area_km2": "825615"
+ },
+ {
+   "pais": "Nauru",
+   "capital": "Yaren",
+   "moneda": "Dólar australiano",
+   "poblacion": "10834",
+   "area_km2": "21"
+ },
+ {
+   "pais": "Nepal",
+   "capital": "Katmandú",
+   "moneda": "Rupia nepalí",
+   "poblacion": "29136808",
+   "area_km2": "147181"
+ },
+ {
+   "pais": "Nicaragua",
+   "capital": "Managua",
+   "moneda": "Córdoba",
+   "poblacion": "6624554",
+   "area_km2": "130373"
+ },
+ {
+   "pais": "Níger",
+   "capital": "Niamey",
+   "moneda": "Franco CFA",
+   "poblacion": "24206644",
+   "area_km2": "1267000"
+ },
+ {
+   "pais": "Nigeria",
+   "capital": "Abuya",
+   "moneda": "Naira",
+   "poblacion": "206139587",
+   "area_km2": "923769"
+ },
+ {
+   "pais": "Noruega",
+   "capital": "Oslo",
+   "moneda": "Corona noruega",
+   "poblacion": "5421242",
+   "area_km2": "323802"
+ },
+ {
+   "pais": "Nueva Zelanda",
+   "capital": "Wellington",
+   "moneda": "Dólar neozelandés",
+   "poblacion": "4822233",
+   "area_km2": "268838"
+ },
+ {
+   "pais": "Omán",
+   "capital": "Mascate",
+   "moneda": "Rial omaní",
+   "poblacion": "5106626",
+   "area_km2": "309500"
+ },
+ {
+   "pais": "Países Bajos",
+   "capital": "Ámsterdam",
+   "moneda": "Euro",
+   "poblacion": "17134872",
+   "area_km2": "41543"
+ },
+ {
+   "pais": "Pakistán",
+   "capital": "Islamabad",
+   "moneda": "Rupia pakistaní",
+   "poblacion": "220892331",
+   "area_km2": "881912"
+ },
+ {
+   "pais": "Palaos",
+   "capital": "Ngerulmud",
+   "moneda": "Dólar estadounidense",
+   "poblacion": "18008",
+   "area_km2": "459"
+ },
+ {
+   "pais": "Panamá",
+   "capital": "Ciudad de Panamá",
+   "moneda": "Balboa",
+   "poblacion": "4314768",
+   "area_km2": "75417"
+ },
+ {
+   "pais": "Papúa Nueva Guinea",
+   "capital": "Puerto Moresby",
+   "moneda": "Kina",
+   "poblacion": "8947027",
+   "area_km2": "462840"
+ },
+ {
+   "pais": "Paraguay",
+   "capital": "Asunción",
+   "moneda": "Guaraní",
+   "poblacion": "7132538",
+   "area_km2": "406752"
+ },
+ {
+   "pais": "Perú",
+   "capital": "Lima",
+   "moneda": "Sol",
+   "poblacion": "32971846",
+   "area_km2": "1285216"
+ },
+ {
+   "pais": "Polonia",
+   "capital": "Varsovia",
+   "moneda": "Zloty",
+   "poblacion": "38386000",
+   "area_km2": "312696"
+ },
+ {
+   "pais": "Portugal",
+   "capital": "Lisboa",
+   "moneda": "Euro",
+   "poblacion": "10196707",
+   "area_km2": "92212"
+ },
+ {
+   "pais": "Qatar",
+   "capital": "Doha",
+   "moneda": "Riyal qatarí",
+   "poblacion": "2881060",
+   "area_km2": "11586"
+ },
+ {
+   "pais": "Reino Unido",
+   "capital": "Londres",
+   "moneda": "Libra esterlina",
+   "poblacion": "68207114",
+   "area_km2": "243610"
+ },
+ {
+   "pais": "República Centroafricana",
+   "capital": "Bangui",
+   "moneda": "Franco CFA",
+   "poblacion": "4829764",
+   "area_km2": "622984"
+ },
+ {
+   "pais": "República del Congo",
+   "capital": "Brazzaville",
+   "moneda": "Franco CFA",
+   "poblacion": "5518092",
+   "area_km2": "342000"
+ },
+ {
+   "pais": "República Democrática del Congo",
+   "capital": "Kinsasa",
+   "moneda": "Franco congoleño",
+   "poblacion": "89561403",
+   "area_km2": "2344858"
+ },
+ {
+   "pais": "República Dominicana",
+   "capital": "Santo Domingo",
+   "moneda": "Peso dominicano",
+   "poblacion": "10847904",
+   "area_km2": "48671"
+ },
+ {
+   "pais": "Ruanda",
+   "capital": "Kigali",
+   "moneda": "Franco ruandés",
+   "poblacion": "12952218",
+   "area_km2": "26338"
+ },
+ {
+   "pais": "Rumania",
+   "capital": "Bucarest",
+   "moneda": "Leu rumano",
+   "poblacion": "19237691",
+   "area_km2": "238397"
+ },
+ {
+   "pais": "Rusia",
+   "capital": "Moscú",
+   "moneda": "Rublo ruso",
+   "poblacion": "145912025",
+   "area_km2": "17098246"
+ },
+ {
+   "pais": "Samoa",
+   "capital": "Apia",
+   "moneda": "Tala",
+   "poblacion": "198410",
+   "area_km2": "2831"
+ },
+ {
+   "pais": "San Marino",
+   "capital": "San Marino",
+   "moneda": "Euro",
+   "poblacion": "33931",
+   "area_km2": "61"
+ },
+ {
+   "pais": "Santa Lucía",
+   "capital": "Castries",
+   "moneda": "Dólar del Caribe Oriental",
+   "poblacion": "183627",
+   "area_km2": "617"
+ },
+ {
+   "pais": "Santo Tomé y Príncipe",
+   "capital": "Santo Tomé",
+   "moneda": "Dobra",
+   "poblacion": "219159",
+   "area_km2": "964"
+ },
+ {
+   "pais": "Senegal",
+   "capital": "Dakar",
+   "moneda": "Franco CFA",
+   "poblacion": "16743927",
+   "area_km2": "196722"
+ },
+ {
+   "pais": "Serbia",
+   "capital": "Belgrado",
+   "moneda": "Dinar serbio",
+   "poblacion": "8737371",
+   "area_km2": "88361"
+ },
+ {
+   "pais": "Sierra Leona",
+   "capital": "Freetown",
+   "moneda": "Leone",
+   "poblacion": "7976983",
+   "area_km2": "71740"
+ },
+ {
+   "pais": "Singapur",
+   "capital": "Singapur",
+   "moneda": "Dólar de Singapur",
+   "poblacion": "5868104",
+   "area_km2": "719"
+ },
+ {
+   "pais": "Siria",
+   "capital": "Damasco",
+   "moneda": "Libra siria",
+   "poblacion": "17500658",
+   "area_km2": "185180"
+ },
+ {
+   "pais": "Somalia",
+   "capital": "Mogadiscio",
+   "moneda": "Chelín somalí",
+   "poblacion": "15893219",
+   "area_km2": "637657"
+ },
+ {
+   "pais": "pais",
+   "capital": "capital",
+   "moneda": "moneda",
+   "poblacion": "poblacion",
+   "area_km2": "area_km2"
+ },
+ {
+   "pais": "Sri Lanka",
+   "capital": "Colombo",
+   "moneda": "Rupia de Sri Lanka",
+   "poblacion": "21803000",
+   "area_km2": "65610"
+ },
+ {
+   "pais": "Sudán",
+   "capital": "Jartum",
+   "moneda": "Libra sudanesa",
+   "poblacion": "43849269",
+   "area_km2": "1861484"
+ },
+ {
+   "pais": "Sudán del Sur",
+   "capital": "Yuba",
+   "moneda": "Libra sursudanesa",
+   "poblacion": "11193725",
+   "area_km2": "619745"
+ },
+ {
+   "pais": "Suecia",
+   "capital": "Estocolmo",
+   "moneda": "Corona sueca",
+   "poblacion": "10099265",
+   "area_km2": "450295"
+ },
+ {
+   "pais": "Suiza",
+   "capital": "Berna",
+   "moneda": "Franco suizo",
+   "poblacion": "8654622",
+   "area_km2": "41285"
+ },
+ {
+   "pais": "Tailandia",
+   "capital": "Bangkok",
+   "moneda": "Baht tailandés",
+   "poblacion": "69799978",
+   "area_km2": "513120"
+ },
+ {
+   "pais": "Taiwán",
+   "capital": "Taipéi",
+   "moneda": "Nuevo dólar de Taiwán",
+   "poblacion": "23816775",
+   "area_km2": "36197"
+ },
+ {
+   "pais": "Tanzania",
+   "capital": "Dodoma",
+   "moneda": "Chelín tanzano",
+   "poblacion": "59734218",
+   "area_km2": "945087"
+ },
+ {
+   "pais": "Tayikistán",
+   "capital": "Dusambé",
+   "moneda": "Somoni",
+   "poblacion": "9537642",
+   "area_km2": "143100"
+ },
+ {
+   "pais": "Togo",
+   "capital": "Lomé",
+   "moneda": "Franco CFA",
+   "poblacion": "8278724",
+   "area_km2": "56785"
+ },
+ {
+   "pais": "Tonga",
+   "capital": "Nukuʻalofa",
+   "moneda": "Paʻanga",
+   "poblacion": "105697",
+   "area_km2": "747"
+ },
+ {
+   "pais": "Túnez",
+   "capital": "Túnez",
+   "moneda": "Dinar tunecino",
+   "poblacion": "11818619",
+   "area_km2": "163610"
+ },
+ {
+   "pais": "Turkmenistán",
+   "capital": "Asjabad",
+   "moneda": "Manat turcomano",
+   "poblacion": "6031187",
+   "area_km2": "488100"
+ },
+ {
+   "pais": "Turquía",
+   "capital": "Ankara",
+   "moneda": "Lira turca",
+   "poblacion": "84339067",
+   "area_km2": "783562"
+ },
+ {
+   "pais": "Tuvalu",
+   "capital": "Funafuti",
+   "moneda": "Dólar tuvaluano",
+   "poblacion": "11792",
+   "area_km2": "26"
+ },
+ {
+   "pais": "Ucrania",
+   "capital": "Kiev",
+   "moneda": "Grivna",
+   "poblacion": "41723998",
+   "area_km2": "603500"
+ },
+ {
+   "pais": "Uganda",
+   "capital": "Kampala",
+   "moneda": "Chelín ugandés",
+   "poblacion": "45741000",
+   "area_km2": "241038"
+ },
+ {
+   "pais": "Uruguay",
+   "capital": "Montevideo",
+   "moneda": "Peso uruguayo",
+   "poblacion": "3473727",
+   "area_km2": "181034"
+ },
+ {
+   "pais": "Uzbekistán",
+   "capital": "Taskent",
+   "moneda": "Som uzbeko",
+   "poblacion": "34232050",
+   "area_km2": "447400"
+ },
+ {
+   "pais": "Vanuatu",
+   "capital": "Port Vila",
+   "moneda": "Vatu",
+   "poblacion": "307150",
+   "area_km2": "12189"
+ }
+]
